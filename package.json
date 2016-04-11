@@ -3,10 +3,6 @@
   "version": "0.0.1",
   "description": "SEO优化方案",
   "main": "app.js",
-  "dependencies": {
-    "express": "^4.13.4",
-    "phantomjs": "^2.1.7"
-  },
   "devDependencies": {
     "express": "^4.13.4"
   },
