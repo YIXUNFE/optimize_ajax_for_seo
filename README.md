@@ -1,5 +1,5 @@
 # optimize_ajax_for_seo
-SEO，优化 ajax 接口数据
+SEO，旁路服务优化 ajax 接口数据
 
 本项目使用 NodeJs 运行 PhantomJs 获取客户端网页内容。其目标在于构建一套旁路服务，等待网页 ajax 获取数据并渲染至 HTML 后将网页内容返回给蜘蛛，以提高 SEO 效果。
 
